@@ -8,6 +8,15 @@ public class NewBehaviourScript : MonoBehaviour
     void Start()
     {
      Debug.Log("Hello, world!");
+     Debug.LogWarning("Hello there -(0)___(0)-");
+     Debug.LogError("Your wrong try again dummy!");
+
+        // Author: Caleb Acquah
+
+        /* 
+          Hello my sunshine...
+         
+         */
     }
 
     // Update is called once per frame
